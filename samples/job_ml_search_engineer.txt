@@ -1,0 +1,23 @@
+Machine Learning Engineer - Search & Relevance
+Northwind Labs
+
+ABOUT THE ROLE
+We are building the next generation of semantic search for enterprise knowledge. You will own retrieval quality end to end, from embeddings to ranking to evaluation.
+
+RESPONSIBILITIES
+- Design and ship retrieval and ranking pipelines using embeddings and vector databases.
+- Build offline evaluation harnesses and run online A/B tests to improve relevance.
+- Fine-tune and serve transformer models in production on Kubernetes.
+- Partner with product to turn ambiguous problems into measurable ML objectives.
+
+REQUIREMENTS
+- 4+ years of professional software engineering experience, 2+ years in applied ML or search.
+- Strong Python skills and experience with PyTorch.
+- Hands-on experience with vector search (pgvector, FAISS, Elasticsearch or similar).
+- Experience deploying services on Kubernetes.
+- Experience designing evaluation metrics (NDCG, MRR) for ranking systems.
+
+NICE TO HAVE
+- Experience with LLM-based applications and RAG.
+- Familiarity with MLflow or similar experiment tracking.
+- Publications or open-source contributions in IR / NLP.

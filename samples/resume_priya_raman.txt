@@ -1,0 +1,27 @@
+Priya Raman
+Senior Software Engineer | Bengaluru, India | priya.raman@example.com
+
+SUMMARY
+Backend engineer with 6 years of experience building data-heavy web services in Python. Led a small team migrating a monolith to services on AWS. Enjoys mentoring and pragmatic, well-tested code.
+
+EXPERIENCE
+Senior Software Engineer, Finlytics (2022 - Present)
+- Designed and shipped a transaction-categorisation service in Python (FastAPI) handling 2M requests/day with p95 latency under 120 ms.
+- Led a team of 4 engineers migrating a Django monolith to services deployed on AWS ECS with Terraform.
+- Introduced PostgreSQL partitioning and Redis caching, cutting dashboard query time by 70%.
+- Built CI/CD pipelines in GitHub Actions; raised test coverage from 38% to 85%.
+- Prototyped an internal search tool with sentence-transformers embeddings and pgvector.
+
+Software Engineer, Quantiva (2019 - 2022)
+- Developed REST APIs in Python and Flask for a B2B analytics product used by 300+ customers.
+- Wrote ETL jobs with Airflow and pandas processing 50 GB of data daily.
+- Created React dashboards for customer reporting.
+
+EDUCATION
+B.E. Computer Science, PES University (2015 - 2019)
+
+SKILLS
+Python, FastAPI, Flask, Django, PostgreSQL, Redis, AWS (ECS, S3, RDS, Lambda), Terraform, Docker, Airflow, pandas, React, TypeScript, GitHub Actions, pytest
+
+CERTIFICATIONS
+AWS Certified Developer - Associate (2023)

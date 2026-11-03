@@ -1,0 +1,22 @@
+Staff Backend Engineer - Platform
+Brightpath Payments
+
+ABOUT US
+Brightpath processes billions in payments for online merchants. Our platform team builds the internal services every product team depends on.
+
+WHAT YOU'LL DO
+- Own the architecture of our core payments APIs, balancing reliability, latency and developer experience.
+- Lead technical design reviews and mentor senior engineers across three teams.
+- Drive migrations from legacy services to a cloud-native architecture on AWS.
+- Improve observability, SLOs and incident response across the platform.
+
+REQUIREMENTS
+- 8+ years of backend engineering experience, with a track record of technical leadership.
+- Expert-level Python or Go, and deep knowledge of relational databases (PostgreSQL).
+- Experience with AWS, infrastructure as code (Terraform) and containerised deployments.
+- Experience leading teams or cross-team technical initiatives.
+- Strong understanding of distributed systems, idempotency and eventual consistency.
+
+PREFERRED
+- Experience in fintech or payments.
+- Experience with Kafka or other event streaming platforms.

@@ -1,0 +1,20 @@
+Full-Stack Engineer (Python / React)
+Lumen Health
+
+ABOUT THE JOB
+Lumen Health helps clinics manage patient scheduling. We are a 25-person team looking for a product-minded full-stack engineer.
+
+RESPONSIBILITIES
+- Build features end to end across our FastAPI backend and React + TypeScript frontend.
+- Own quality through automated tests and CI/CD.
+- Work directly with clinic customers to understand workflows.
+
+QUALIFICATIONS
+- 3+ years of experience building web applications with Python and a modern JavaScript framework.
+- Experience with PostgreSQL and REST API design.
+- Comfortable with Docker and cloud deployment.
+- Strong communication skills and a pragmatic approach to testing.
+
+BONUS POINTS
+- Experience with healthcare data standards such as HL7 or FHIR.
+- Experience with HIPAA-compliant systems.
