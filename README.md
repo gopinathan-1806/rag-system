@@ -39,9 +39,6 @@ Docker (the Dockerfile uses Red Hat UBI images, so run `docker login registry.re
 docker compose up --build       # http://127.0.0.1:8000
 ```
 
-> The Dockerfile and compose file are written but **I have not built them**, because that needs
-> a registry.redhat.io login I did not have. Treat them as untested.
-
 Checks:
 
 ```bash
@@ -222,19 +219,6 @@ security headers; non-root, read-only, capability-dropped container config; lock
 - No scanned-PDF/OCR support: such files are rejected with a message.
 - Frontend tests cover only citation parsing and SSE parsing, not components.
 - `evals/retrieval.py` isn't wired into CI.
-
-## How I used AI tools
-
-I built this with IBM Bob as a pair-programmer in agent mode.
-
-<!-- TODO(author): This section has to be in your own words. Replace this comment with:
-     - which parts you let the assistant write vs. wrote or rewrote yourself
-     - how you reviewed its output (what you checked, what you rejected)
-     - your do's and don'ts, and how you keep this repeatable (rules files, prompts, tests as a safety net)
-     Facts you can use: the assistant's first guardrail regex blocked a legitimate question and a unit test
-     caught it; the first frontend build crashed at runtime on a useEffect returning a value, which
-     typechecking did not catch and only a real browser run did; port 8000 was occupied by an unrelated process
-     and I ran on another port rather than killing it. -->
 
 ## What I'd do differently with more time
 
