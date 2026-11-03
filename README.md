@@ -5,10 +5,14 @@ alignment and interview prep. Every claim in an answer is cited back to the pass
 
 ![Chat with citations](screenshots/03-chat-with-citation.png)
 
-| | |
-|---|---|
-| ![Empty](screenshots/01-empty.png) | ![Docs loaded](screenshots/02-documents-loaded.png) |
-| ![Guardrail](screenshots/04-guardrail-block.png) | ![Fit report](screenshots/05-fit-report.png) |
+
+![Empty](screenshots/01-empty.png) 
+
+![Docs loaded](screenshots/02-documents-loaded.png) 
+
+![Guardrail](screenshots/04-guardrail-block.png) 
+
+![Fit report](screenshots/05-fit-report.png) 
 
 ## Quick start
 
