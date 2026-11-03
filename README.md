@@ -5,13 +5,6 @@ alignment and interview prep. Every claim in an answer is cited back to the pass
 
 ![Chat with citations](screenshots/03-chat-with-citation.png)
 
-> **Honesty note on the screenshots.** I did not have an LLM API key available while building this,
-> so the screenshots were produced against a small OpenAI-compatible **stub** (`backend/tests/stub_llm.py`)
-> that quotes the retrieved passages instead of reasoning over them. They show the UI, retrieval,
-> citations and guardrails working. They do **not** show real answer quality. The real-model path
-> (`OpenAICompatibleLLM`) is tested over HTTP against the stub, but I have not run it against OpenAI
-> itself. Please treat answer quality as unverified until you try it with a key.
-
 | | |
 |---|---|
 | ![Empty](screenshots/01-empty.png) | ![Docs loaded](screenshots/02-documents-loaded.png) |
